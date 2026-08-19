@@ -11,3 +11,6 @@ The system now stores the department of every student.
 
 The system now stores the email of every student
 
+## Studen phone
+
+The system no stores the email of every student
