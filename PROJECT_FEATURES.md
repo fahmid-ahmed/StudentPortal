@@ -21,3 +21,6 @@ The system now stores the address of every student
 ## Student gender
 
 The system now stores the gender of every student
+## Student semester
+
+The system now stores the semester of every student
