@@ -18,3 +18,6 @@
 ## Version 1.6
 
 -Added address field to student structure
+## Version 1.7
+
+-Added gender field to student structure
