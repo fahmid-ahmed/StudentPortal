@@ -18,3 +18,6 @@ The system no stores the email of every student
 ## Student address
 
 The system now stores the address of every student
+## Student gender
+
+The system now stores the gender of every student
