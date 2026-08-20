@@ -26,3 +26,5 @@
 -Added student semester field to student structure
 ## Version 1.9
 Added student credit hours field to student structure
+## Version 1.10
+Added student status field to student structure
