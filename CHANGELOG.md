@@ -29,4 +29,4 @@ Added student credit hours field to student structure
 ## Version 1.10
 Added student status field to student structure
 ## Version 1.11
-Added studentt improve name field to student structure
+Added student  improve name field to student structure
