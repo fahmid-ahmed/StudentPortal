@@ -30,3 +30,6 @@ Added student credit hours field to student structure
 Added student status field to student structure
 ## Version 1.11
 Added student  Improve Name Field  to student structure
+## Version 1.12
+ Increased student address field capacity from 100 to 200 characters
+
