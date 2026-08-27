@@ -29,6 +29,8 @@ The system now stores the semester of every student
 The system now stores the credit hours of every student
 ## Student Status
 
-The system now stores the status of every student
-## Student Improve Name Field 
-The system now stores the  improve name field of every student
+The system now stores the status of every student 
+## Student Status
+The system now stores the  Improve Name Field  of every student
+## Student Status
+The system now stores the Update documentation of every student
