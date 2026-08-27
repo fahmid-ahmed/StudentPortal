@@ -43,4 +43,6 @@ Added student — Rename Student ID to student structure
 ## Version 1.15
 
 Added student — Rename Student Name to student structure
+## Version 1.16
 
+Updated README.md with comprehensive project description.
