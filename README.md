@@ -7,3 +7,9 @@ Student Management System is a comprehensive terminal-based application designed
 - README.md – Project information.
 - PROJECT_FEATURES.md – List of implemented features.
 - CHANGELOG.md – History of project changes.
+
+## Team Members 
+- FAHMED AHAMED BAPPY 
+- TABASSUM ISLAM ZINIA 
+- PROGGA BANIK 
+- ANWESHA DEY 
